@@ -5,5 +5,16 @@
 table {
   border: 1px black solid;
   margin: auto;
-  width: auto;
+  text-align: center;
+}
+
+
+img{
+  text-align: center;
+  vertical-align: top;
+}
+
+th,
+td {
+  padding: 5px 15px;
 }
