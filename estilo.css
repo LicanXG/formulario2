@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border: 1px black solid;
+  margin: auto;
+  width: auto;
+}
